@@ -1,0 +1,1 @@
+# Technical_Characteristic_and_Rapid_charge_prediction_on_ElectricVehicle
